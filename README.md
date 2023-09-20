@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install littleli/arcadedb/<formula>`
+`brew install littleli/arcadedb/arcadedb`
 
-Or `brew tap littleli/arcadedb` and then `brew install <formula>`.
+Or `brew tap littleli/arcadedb` and then `brew install arcadedb`.
 
 ## Documentation
 
